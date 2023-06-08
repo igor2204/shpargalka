@@ -12,4 +12,12 @@
     <string name="fivemesto1">(Режиссёр: Сидни ЛЮМЕТ, 1956) Рейтинг 8,9</string>
     <string name="sixmesto">"Список Шиндлера"</string>
     <string name="sixmesto1">(Режиссёр: Стивен СПИЛБЕРГ, 1993) Рейтинг 8,9</string>
+    <string name="sevenmesto">"Криминальное чтиво"</string>
+    <string name="sevenmesto1">(Режиссёр: Квентин ТАРАНТИНО, 1994) Рейтинг 8,9</string>
+    <string name="eightmesto">"Властелин колец: Возвращение короля"</string>
+    <string name="eightmesto1">(Режиссёр: Питер ДЖЕКСОН, 2003) Рейтинг 8,9</string>
+    <string name="ninemesto">"Хороший, плохой, злой"</string>
+    <string name="ninemesto1">(Режиссёр: Серджио ЛЕОНЕ , 1966) Рейтинг 8,9</string>
+    <string name="tenmesto">"Бойцовский клуб"</string>
+    <string name="tenmesto1">(Режиссёр: Дэвид ФИНЧЕР, 1999) Рейтинг 8,8</string>
 </resources>
