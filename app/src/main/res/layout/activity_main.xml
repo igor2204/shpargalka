@@ -8,7 +8,7 @@
     tools:context=".MainActivity">
 
     <ImageView
-        android:id="@+id/films"
+        android:id="@+id/film"
         android:layout_width="match_parent"
         android:layout_height="200dp"
         android:scaleType="fitCenter"
