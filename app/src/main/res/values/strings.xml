@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">shpargalka</string>
+    <string name="onemesto">"Побег из Шоушенка"</string>
+    <string name="onemesto1">(Режиссёр: Фрэнк ДАРАБОНТ, 1994) Рейтинг 9,3</string>
+    <string name="twomesto">"Крестный отец"</string>
+    <string name="twomesto1">(Режиссёр: Фрэнсис ФОРД КОППОЛА, 1972) Рейтинг 9,2</string>
+    <string name="threemesto">"Крестный отец 2"</string>
+    <string name="threemesto1">(Режиссёр: Фрэнсис ФОРД КОППОЛА, 1974) Рейтинг 9,0</string>
+    <string name="fourmesto">"Темный рыцарь"</string>
+    <string name="fourmesto1">(Режиссёр: Кристофер НОЛАН, 2008) Рейтинг 9,0</string>
+    <string name="fivemesto">"12 разгневанных мужчин"</string>
+    <string name="fivemesto1">(Режиссёр: Сидни ЛЮМЕТ, 1956) Рейтинг 8,9</string>
+    <string name="sixmesto">"Список Шиндлера"</string>
+    <string name="sixmesto1">(Режиссёр: Стивен СПИЛБЕРГ, 1993) Рейтинг 8,9</string>
 </resources>

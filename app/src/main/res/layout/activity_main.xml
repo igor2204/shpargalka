@@ -8,9 +8,9 @@
     tools:context=".MainActivity">
 
     <ImageView
-        android:id="@+id/film"
+        android:id="@+id/films"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
+        android:layout_height="wrap_content"
         android:scaleType="fitCenter"
 
         tools:ignore="ContentDescription" />
@@ -18,10 +18,10 @@
     <ListView
         android:id="@+id/list"
         android:layout_width="wrap_content"
-        android:layout_height="530dp"
-        android:gravity="center"
+        android:layout_height="566dp"
+        android:divider="@color/purple_700"
         android:dividerHeight="0dp"
-        android:divider="@color/purple_700" />
+        android:gravity="center" />
 
 
 
